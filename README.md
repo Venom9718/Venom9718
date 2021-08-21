@@ -3,4 +3,4 @@
 
 💪 Mostly used language is javascript.
 
-🔥 Moving to 17 in few days
+🔥 Always me
