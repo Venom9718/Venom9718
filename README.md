@@ -1,5 +1,5 @@
 # 👋 Hi ya, I'm Venom
-🤤 I'm a discord and code addict.
+🤤 I'm a discord/coding addict.
 
 💪 Mostly used language is javascript.
 
