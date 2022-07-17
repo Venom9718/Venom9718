@@ -1,6 +1,4 @@
 # 👋 Hi ya, I'm Venom
 🤤 I'm a discord/coding addict.
 
-💪 Mostly used language is javascript.
-
-🔥 Always me
+💪 Mostly used languages are javascript and typescript.
